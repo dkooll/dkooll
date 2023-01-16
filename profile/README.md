@@ -8,8 +8,8 @@ I also like to blog and write about the challenges and solutions i encounter alo
 Some keywords to describe my personality: eager to learn, thinker, ambitious, impatient, accurate
 strong feeling of responsibility.
 
-## Specialties:
+### Specialties:
 terraform, infrastructure as code, CI/CD, powershell, serverless, bicep, docker
 
-## Learning:
+### Learning:
 go, python, kubernetes
