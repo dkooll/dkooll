@@ -10,8 +10,5 @@ solutions I encounter along the way.
 Some keywords to describe my personality: eager to learn, thinker, ambitious, impatient, accurate  
 strong feeling of responsibility.  
 
-### Specialties:
-terraform, infrastructure as code, CI/CD, powershell, serverless, bicep, docker
-
-### Learning:
-go, python, kubernetes
+### Interrests:
+terraform, infrastructure as code, CI/CD, powershell, serverless, bicep, docker, kubernetes, go, python
