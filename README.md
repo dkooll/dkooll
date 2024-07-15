@@ -11,4 +11,4 @@ Some keywords to describe my personality: eager to learn, thinker, ambitious, im
 strong feeling of responsibility.  
 
 ### Interrests:
-terraform, infrastructure as code, CI/CD, powershell, serverless, bicep, docker, kubernetes, go, python
+terraform, bicep, CI/CD, powershell, docker, kubernetes, go, python, lua
