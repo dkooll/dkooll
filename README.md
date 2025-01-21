@@ -2,7 +2,6 @@
 
 I am a DevOps Engineer with a strong preference for developing and using infrastructure as code principles.  
 I specialize in building cloud solutions in Azure using both declarative and imperative approaches.  
-Additionally, I have a keen interest in serverless technologies to minimize operational costs.  
 
 My primary focus is now on development, though I have a long history in operations as a sysadmin.
 
