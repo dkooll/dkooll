@@ -7,7 +7,7 @@ My current focus is on development and the integration of AI-assisted tools into
 
 With a background in operations as a sysadmin, I bring both stability and innovation to the table.
 
-I enjoy blogging and writing about the challenges and solutions I encounter along the way.
+I enjoy blogging and sharing the challenges and solutions I encounter, and I love tweaking and experimenting in Neovim, embracing its terminal-based, keyboard-driven workflow and plugin customization for a fast and distraction-free development experience.
 
 Some keywords to describe my personality: eager to learn, thinker, ambitious, impatient, accurate,
 strong feeling of responsibility.
