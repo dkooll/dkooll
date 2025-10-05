@@ -14,4 +14,4 @@ strong feeling of responsibility.
 
 ### Interests:
 
-terraform, bicep, pulumi, CI/CD, powershell, docker, kubernetes, go, python, lua, rust, ai, machine learning
+terraform, bicep, pulumi, CI/CD, powershell, docker, kubernetes, go, python, lua, rust, ai
