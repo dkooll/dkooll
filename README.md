@@ -5,7 +5,7 @@ I specialize in building cloud solutions in Azure using both declarative and imp
 
 My current focus is on development and the integration of AI-assisted tools into DevOps processes — improving efficiency, validation, and automation through intelligent systems.
 
-With a background in operations as a sysadmin, I bring both stability and innovation to the table.
+With a long-standing background in operations as a sysadmin, I have a deep understanding of infrastructure and system reliability.
 
 I enjoy blogging and sharing the challenges and solutions I encounter, and I love tweaking and experimenting in Neovim, embracing its terminal-based, keyboard-driven workflow and plugin customization for a fast and distraction-free development experience.
 
